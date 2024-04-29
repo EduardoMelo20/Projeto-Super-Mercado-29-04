@@ -1,0 +1,35 @@
+D:\VisualTCC Prévia\VisualTCC Prévia\bin\Debug\VisualTCC Prévia.exe.config
+D:\VisualTCC Prévia\VisualTCC Prévia\bin\Debug\VisualTCC Prévia.exe
+D:\VisualTCC Prévia\VisualTCC Prévia\bin\Debug\VisualTCC Prévia.pdb
+D:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC Prévia.csproj.AssemblyReference.cache
+D:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC_Prévia.Form1.resources
+D:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC_Prévia.Properties.Resources.resources
+D:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC Prévia.csproj.GenerateResource.cache
+D:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC Prévia.csproj.CoreCompileInputs.cache
+D:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC Prévia.csproj.CopyComplete
+D:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC Prévia.exe
+D:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC Prévia.pdb
+D:\VisualTCC Prévia\VisualTCC Prévia\bin\Debug\Guna.UI2.dll
+D:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC_Prévia.Sistema.resources
+D:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC_Prévia.Menu.resources
+D:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC_Prévia.Caixa.resources
+D:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC_Prévia.Estoque.resources
+D:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC_Prévia.Cadastro.resources
+E:\VisualTCC Prévia\VisualTCC Prévia\bin\Debug\VisualTCC Prévia.exe.config
+E:\VisualTCC Prévia\VisualTCC Prévia\bin\Debug\VisualTCC Prévia.exe
+E:\VisualTCC Prévia\VisualTCC Prévia\bin\Debug\VisualTCC Prévia.pdb
+E:\VisualTCC Prévia\VisualTCC Prévia\bin\Debug\Guna.UI2.dll
+E:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC Prévia.csproj.AssemblyReference.cache
+E:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC Prévia.csproj.SuggestedBindingRedirects.cache
+E:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC_Prévia.Cadastro.resources
+E:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC_Prévia.Caixa.resources
+E:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC_Prévia.Estoque.resources
+E:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC_Prévia.Form1.resources
+E:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC_Prévia.Menu.resources
+E:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC_Prévia.Properties.Resources.resources
+E:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC_Prévia.Sistema.resources
+E:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC Prévia.csproj.GenerateResource.cache
+E:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC Prévia.csproj.CoreCompileInputs.cache
+E:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC Prévia.csproj.CopyComplete
+E:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC Prévia.exe
+E:\VisualTCC Prévia\VisualTCC Prévia\obj\Debug\VisualTCC Prévia.pdb
